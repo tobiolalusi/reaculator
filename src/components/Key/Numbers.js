@@ -16,7 +16,7 @@ const Numbers = ({ onClick }) =>
 
 		<button onClick={ onClick } value='0' className='btn btn-danger col-4 py-4'>0</button>
 		<button onClick={ onClick } value='.' className='btn btn-danger col-4 py-4'>.</button>
-		<button onClick={ onClick } value='e' className='btn btn-dark col-4 py-4'>EXP</button>
+		<button onClick={ onClick } value='e' className='btn btn-dark col-4 py-4'>&times; 10<sup>x</sup></button>
 	</section>
 
 export { Numbers };
