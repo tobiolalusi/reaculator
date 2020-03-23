@@ -7,12 +7,16 @@ Install docker and docker-compose in system and run `docker-compose up` in direc
 
 ### FEATURES
  - Basic arithmetic operations (i.e Addition, Subtraction, Multiplication and Division)
- - Supports exponentials up to the power of 99
+ - Supports exponential up to the power of 99
  - Delete key
  - All clear key
  - Inputs calculations from anywhere in window (i.e Focused on the display input or not)
  - Maximum of 10 characters in result display
  - Maximum of 99 in input display
 
+### TODO
+ - Offline capability
+ - Recreate calculator's algorithm
+
 ### AUTHOR
-Oluwatobiloba Olalusi
+Oluwatobiloba Olalusi, 2018
