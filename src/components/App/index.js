@@ -113,15 +113,15 @@ class App extends Component {
 									   className='d-flex flex-column mx-2'>
 										<img src={icon.instagram} style={{height: '2.5rem'}} alt='Instagram'/>
 									</a>
-									<a href='https://linkedin.com/in/tobby1177' target='_blank' rel='noopener noreferrer'
+									<a href='https://linkedin.com/in/tobiolalusi' target='_blank' rel='noopener noreferrer'
 									   className='d-flex flex-column mx-1'>
 										<img src={icon.linkedin} style={{height: '2.75rem'}} alt='LinkedIn'/>
 									</a>
-									<a href='https://github.com/tobby1177' target='_blank' rel='noopener noreferrer'
+									<a href='https://github.com/tobiolalusi' target='_blank' rel='noopener noreferrer'
 									   className='d-flex flex-column mx-2'>
 										<img src={icon.github} style={{height: '2.5rem'}} alt='GitHub'/>
 									</a>
-									<a href='mailto:tobby1177@yahoo.com' target='_blank' rel='noopener noreferrer'
+									<a href='mailto:hello@tobiolalusi.com' target='_blank' rel='noopener noreferrer'
 									   className='d-flex flex-column mx-2'>
 										<img src={icon.email} style={{height: '2.5rem'}} alt='Email'/>
 									</a>
